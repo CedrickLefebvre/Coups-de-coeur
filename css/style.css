@@ -6,7 +6,7 @@
 
 body
 {
-	font-family : 'Open Sans', "serif";
+	font-family : 'Open Sans', "Openspace";
 
 }
 
@@ -35,7 +35,7 @@ body
 
 }
 
-.navbar-transparent .navbar-header >a:hover
+.navbar-transparent .navbar-header >a:hover, .navbar-transparent .navbar-header >a:focus
 {
     color: gold;
 }
