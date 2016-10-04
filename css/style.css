@@ -1,0 +1,112 @@
+.logo
+{
+	margin-top: -0.6em;
+
+}
+
+body
+{
+	font-family : 'Open Sans', "serif";
+
+}
+
+.navbar-transparent
+{
+	background-color: black !important;
+	opacity: 0.6;
+	border: 1px solid black;
+}
+
+.navbar-transparent .navbar-nav > li > a 
+{
+	color: gold;
+}
+
+.navbar-default .navbar-brand
+{
+	color: gold;
+}
+
+.navbar-transparent .navbar-nav > li a:hover{
+  background-color: black;
+ 	color: #b97f03;
+  text-decoration: none;
+  
+
+}
+
+.navbar-transparent .navbar-header >a:hover
+{
+    color: gold;
+}
+
+
+.wrapper {
+    background-image: url("../Images/background.jpg");
+    background-size: cover;
+    color: white;
+    height: 650px;
+    padding-top: 150px;
+    text-align: center;
+
+}
+
+
+.lead {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.7;
+    margin-bottom: 20px;
+
+}
+
+.btn-primary {
+    background-color: #FCBF3E;
+    border-color: #FCBF3E;
+    color: black;
+    margin-top: 1.5em;
+    font-weight: bold;
+}
+
+.btn-primary:hover
+{
+	background-color: #e89f04;
+    border-color: #e89f04;
+    color: black;
+    margin-top: 1.5em;
+    font-weight: bold;
+    opacity: 1;
+
+}
+
+
+h1
+{
+	font-size: 50px;
+    font-weight: normal;
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+}
+
+
+h2
+{
+	font-size: 30px;
+    font-weight: normal;
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+}
+
+*::before, *::after {
+    box-sizing: border-box;
+}
+*::before, *::after {
+    box-sizing: border-box;
+}
+#footer {
+    background-color: #222;
+    color: #aaaaaa;
+    padding-bottom: 3em;
+    padding-top: 3em;
+}
+* {
+    box-sizing: border-box;
+}
