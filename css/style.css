@@ -6,9 +6,9 @@
 
 @font-face {
     font-family: "Open Sans";
-   font-weight: bold;
+   	font-weight: bold;
     src: url('../open-sans/OpenSans-Bold.ttf');
-
+}
 
 .logo
 {
