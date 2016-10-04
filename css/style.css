@@ -80,7 +80,7 @@ body
     font-weight: bold;
 }
 
-.btn-primary:hover
+.btn-primary:hover, .btn-primary:focus
 {
 	background-color: #e89f04;
     border-color: #e89f04;
