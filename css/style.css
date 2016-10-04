@@ -1,3 +1,11 @@
+@font-face{ 
+	font-family: 'Open Sans';
+	src: url('../open-sans/OpenSans-Regular.ttf')format('eot');
+
+	     
+}
+
+
 .logo
 {
 	margin-top: -0.6em;
